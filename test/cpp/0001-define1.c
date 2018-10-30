@@ -3,7 +3,7 @@
 int
 main()
 {
-	int x;
+	int x;//initialization
 
 	x = 0;
 	return X;

@@ -1,7 +1,7 @@
 
 int *calloc(int, int);
 
-int N;
+int N;//initialize
 int *t;
 
 int
